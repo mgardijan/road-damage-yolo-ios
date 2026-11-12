@@ -50,6 +50,16 @@ The reported FPS is an observed development measurement on the tested iOS device
 
 The recording shows continuous detection, including the accelerometer-based `bump` event later in the video. The application allows the detection-confidence threshold to be adjusted.
 
+
+## GPS-Based Infrastructure Mapping
+
+Visual detections and accelerometer-based impact events are linked to GPS coordinates and spatially aggregated into a colour-coded route representing the condition of cycling infrastructure.
+
+The map displays detected events, severity levels, and route segments directly within the iOS application.
+
+![GPS-based cycling infrastructure condition map](assets/route_map.jpg)
+
+
 ## Precision–recall curve
 
 ![Precision–recall curves for defect and faded_marking classes](assets/precision_recall_curve.png)
