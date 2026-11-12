@@ -59,7 +59,7 @@ The map displays detected events, severity levels, and route segments directly w
 
 
 <p align="center">
-  <img src="assets/route_map.jpg" width="350" alt="GPS-based cycling infrastructure condition map">
+  <img src="assets/route_map.jpeg" width="350" alt="GPS-based cycling infrastructure condition map">
 </p>
 
 
