@@ -46,7 +46,7 @@ The reported FPS is an observed development measurement on the tested iOS device
 
 [![Watch the real-time iOS detection demo](https://img.youtube.com/vi/svyrwcqMdJ8/hqdefault.jpg)](https://youtu.be/svyrwcqMdJ8)
 
-**[Watch the full, approximately 3-minute demonstration on YouTube](https://youtu.be/svyrwcqMdJ8)**
+**[Watch the full demonstration on YouTube](https://youtu.be/svyrwcqMdJ8)**
 
 The recording shows continuous detection, including the accelerometer-based `bump` event later in the video. The application allows the detection-confidence threshold to be adjusted.
 
