@@ -57,7 +57,7 @@ Visual detections and accelerometer-based impact events are linked to GPS coordi
 
 The map displays detected events, severity levels, and route segments directly within the iOS application.
 
-![GPS-based cycling infrastructure condition map](assets/route_map.jpg)
+![GPS-based cycling infrastructure condition map](assets/route_map.jpeg)
 
 
 ## Precision–recall curve
